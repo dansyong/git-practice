@@ -1,2 +1,5 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+[Link to Article - Apple’s WWDC 2026 Preview Points to New UX and Development Standards](https://news.designrush.com/apple-wwdc-2026-ai-ux-software-development)
+
+I found the article interesting because I'm looking to go into more of the design space and considering fields in UI/UX. While it has been scary to think that AI is making so much of our work easy/obsolete, I think with more developments, there will come a time where we will need to adapt past what AI can complete. I was thinking about the new iPhone Duo and how it creates really odd UI/UX breakpoint concerns because of how developers will need to consider how their apps and websites might be viewed on screens like the iPhone Duo. The problem has definitely existed before, but I think it has become more solidified with Apple's introduction into the "flip-phone" industry. It becomes more complicated now since so many people are hypnotized by Apple products, so we might see an increase in people using products like the iPhone Duo.
