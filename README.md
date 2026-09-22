@@ -8,4 +8,8 @@ I found the article interesting because I'm looking to go into more of the desig
 
 I feel like AI might make certain parts of designing UI/UX easier, but it still keeps creating new design problems that require engineers to think through. I do think that Apple needs to take accessibility into greater consideration for AI apps though, rather than trying to win the AI race, because having a product that works well for **everyone** is far more important than having a product that generates the company a lot of money and attention.
 
-Also, if foldable phones become the norm again, developers are going to have to think more about how their apps look and work across different screen layouts. Samsung has already done this before, so I’m sure for a company as big as Apple, they’ll figure it out and manage just fine. 
+Also, if foldable phones become the norm again, developers are going to have to think more about how their apps look and work across different screen layouts. Samsung has already done this before, so I’m sure for a company as big as Apple, they’ll figure it out and manage just fine.
+
+## Vihaan Agarwal's comment (VihaanAgarwal)
+
+The part about switching devices adds another issue to your point about screen sizes. An app can fit both screens and still be frustrating if it loses your progress when you switch. Keeping a draft or task in sync seems just as important as getting the layout right.
