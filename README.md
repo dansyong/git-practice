@@ -13,3 +13,7 @@ Also, if foldable phones become the norm again, developers are going to have to 
 ## Vihaan Agarwal's comment (VihaanAgarwal)
 
 The part about switching devices adds another issue to your point about screen sizes. An app can fit both screens and still be frustrating if it loses your progress when you switch. Keeping a draft or task in sync seems just as important as getting the layout right.
+
+## Raihan Zaman's comment (raihanzaman)
+
+One thing that I couldn't stop thinking about while reading this article is Apple's push for "liquid glass" UI across it's platforms. It could very well be that the prioritization of cross-platform UI has made it important enough for them to advertise heavily since iOS 26.
